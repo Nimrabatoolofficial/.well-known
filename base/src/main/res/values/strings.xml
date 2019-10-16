@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Nimra\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Nimra Batool</string>
+    <string name="resume_title">Student | Android Developer |Tech Enthusiast</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">l164106@lhr.nu.edu.pk</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923221414491</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/nimrabatool-846348194/</string>
+    <string name="Linkedin_UserName">Nimra Batool</string>
+    <string name="Github_UserName">Nimrabatoolofficial</string>
+    <string name="Github_IdLink">https://github.com/Nimrabatoolofficial</string>
+    <string name="ieee_link">https://ieeexplore.ieee.org/document/7840114</string>
+    <string name="StackOverFlow_UserName">nimra-batool-fastnu</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/12131071/nimra-batool-fastnu</string>
+    <string name="education">Education</string>
+    <string name="answer">Work gives us meaning, so I\'d like to work in an optimistic environment. My ultimate goal is to give back to the society using my tech skills.</string>
+    <string name="answer1">I\'m accountable at my work. My priority is to make sure that whatever I develop or contribute into; should be of the highest quality.
+       </string>
+    <string name="experience_title">Junior Software Engineer</string>
+    <string name="experience_description">"\u2713 Picasso,Glide (Libraries)\n""\u2713 MVP \n""\u2713 MVVM \n""\u2713 Room Database\n""\u2713 Firebase"</string>
+    <string name="why_i_did_choose_work_1">"\u2713 Because I need to cache the image\n""\u2713 Design pattern - unit testing easier and lesser\n"\u0020 \u0020 "code size than MVP\n""\u2713 Design pattern - Easier for unit testing\n""\u2713 Save data in a local database using Room\n""\u2713 Firebase provides a realtime database and \n"\u0020 \u0020 "backend as a service"
+
+    </string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">Junior IT engineer</string>
+    <string name="experience_description1">\u2713 Dept: junior pragrammer \n\u2713 Dept: Web development\n\u2713 Extra Course: HackFest</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Software Engineer</string>
+    <string name="experience_description2">\u2713 Java for Blackberry SDK 7.1 \n\u2713 Java for Android\n\u2713 Sencha Touch 2 (HTML5)\n\u2713 SMTP Mail Configurations\n\u2713 CronJobs and Task Schedulers for Auto Execution of the Scripts at a given time.</string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+
+    <string name="project_title">Learning Management System</string>
+    <string name="project_description">\u2713 Worked on screen time features for this application.
+        \n\u2713 Made easy and flexible UI/ UX so Students with the different educational backgrounds can use this app easily.
+    </string>
+    <string name="year">(2019)</string>
+
+    <string name="project_title1">Resturant Management System app</string>
+    <string name="project_description1">"\u2713 Smart way to manage your Restaurant . </string>
+    <string name="year1">(2019)</string>
+    <string name="project_title2">Smart Restaurant App </string>
+    <string name="project_description2">\u2713 Smart way to manage your Restaurant</string>
+    <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Matric</string>
+    <string name="school_name">Qurban Girls High School</string>
+    <string name="intermediate_title">FSC (pre Engineering)</string>
+    <string name="college_title">Punjab Group of Colleges</string>
+    <string name="graduation_title">Bachelors of Science in CS (BSCS) </string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">Nawa-i-Wqt</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2012-2014)</string>
+    <string name="college_year">(2014 – 2016)</string>
+    <string name="university_year">(2016 – 2020)</string>
+    <string name="Cgpa"></string>
+    <string name="certification_courses_title">Publications</string>
+    <string name="institute_title">As a content writer and developed different websites there</string>
+    <string name="institute_year">(2017)</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">Android</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Web Development</string>
+    <string name="skill_title_4">Javascript</string>
+    <string name="skill_title_5">PHP</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose CS:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" I have always been a sharp minded student and my logic building skills are envialbe. Moreover all the features of new coming apps make me curious about the logics and tricks behind them . That is why I have choosed this field to use my skills and logic buliding in the coding and development. </string>
+    <string name="why_i_did_choose_work_3">"\u2713" Client based company, so considering the requirements from clients and keeping in point latest technology at that time I used above technology stack. </string>
+    <string name="company_name1">SkimCode Technologies</string>
+    <string name="experience_time1">November 2018 - january 2019(3 months)</string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">ArbiSoft Technologies</string>
+    <string name="experience_time2">August 2017 - December 2017 (4 months Internship)</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">Techlogix inc</string>
+    <string name="experience_time3">June 2019 - October (3 months )</string>
+    <string name="worked_on3">Worked On:</string>
+
+
+</resources>
