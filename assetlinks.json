@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nimra.cv.base",
+    "sha256_cert_fingerprints":
+    ["61:48:32:BE:B3:96:2B:BF:9F:57:42:28:E2:39:CC:DC:D9:55:FE:E8:E4:13:2D:9F:6D:0B:6E:87:3F:51:D1:C5"]
+  }
+}]
